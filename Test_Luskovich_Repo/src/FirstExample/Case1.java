@@ -1,4 +1,2 @@
-package FirstExample;
-
-public class Case1 {
+package FirstExample;public class Case1 {
 }
