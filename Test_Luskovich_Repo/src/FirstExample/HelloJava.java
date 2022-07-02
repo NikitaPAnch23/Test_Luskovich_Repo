@@ -5,7 +5,7 @@ public class HelloJava {
         var Java = "Hello Java! ";
         var Version = 18;
         System.out.println(Java + Version);
-        System.out.println(" and Git");
+        System.out.println(" and Git!");
 
     }
 }
